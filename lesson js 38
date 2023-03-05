@@ -1,0 +1,9 @@
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+const wordBlanks = "this is a" + " " + myNoun + ", he is" + " " + myAdjective + " " +  " her" + " " + myVerb + " " + "very" + " " + myAdverb ; // Change this line
+console.log(wordBlanks);
+// Only change code above this line
